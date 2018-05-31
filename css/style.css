@@ -1,5 +1,6 @@
 h1{
 	font-size: 36px;
+	font
 }
 p{
 	font-size: 20px;
@@ -19,7 +20,7 @@ ul{
 header{
 	background-color: #F0F8FF;
 	padding: 200px 0;
-	background-image: url("C:/Users/Usuario/Desktop/Hike Academy/img/dog-header.png");
+	background-image: url("img/dog-header.png");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -78,7 +79,7 @@ header{
 }
 .fourth-section {
 	background-color: #F0F8FF;
-	background-image: url("C:/Users/Usuario/Desktop/Hike Academy/img/dogs-pattern.png");
+	background-image: url("img/dogs-pattern.png");
 	background-repeat: repeat;
 	background-size: 192px 192px;
 }
